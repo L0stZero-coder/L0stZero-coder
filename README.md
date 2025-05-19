@@ -41,7 +41,7 @@ Captures live voice input, transcribes via Azure, extracts personal traits using
 
 | Category         | Tools & Platforms                                      |
 |------------------|--------------------------------------------------------|
-| Programming      | C#, .NET 6, Unity C#                                   |
+| Programming      | C#, .NET 6, Unity C#, Java, JavaScript, C+, HTML       |
 | AI & NLP         | OpenAI GPT-4, Custom LLM Prompts, Sentiment Extraction |
 | Speech           | Azure Cognitive Services, System.Speech APIs           |
 | Integration      | TwitchLib.Client, RESTful APIs                         |

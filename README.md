@@ -1,6 +1,6 @@
 # 👨‍💻 L0stZero-coder
 
-### 🧠 AI Engineer | 🎮 Unity Developer | 🎙️ Voice Interaction Specialist  
+### 🧠 AI Software Developer | 🎮 Unity Developer | 🎙️ Voice Interaction Specialist  
 Building intelligent, emotionally-aware systems that listen, learn, and respond.
 
 ---

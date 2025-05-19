@@ -9,6 +9,8 @@ Building intelligent, emotionally-aware systems that listen, learn, and respond.
 
 I'm a C# and .NET developer with a passion for creating intelligent, voice-driven AI applications and simulation systems. My work explores the intersection of **real-time communication**, **behavioral logic**, and **human-machine interaction**, with a focus on emotional responsiveness and automation.
 
+🎓 I am currently a **Computer Science (Artificial Intelligence)** student at the **University of Royal Holloway**.
+
 I specialize in:
 - Voice-enabled AI assistants
 - Emotionally adaptive systems
